@@ -1,0 +1,21 @@
+{
+	"name": "fake-number",
+	"version": "1.0.0",
+	"description": "Example implementation of changing a Solidity contract bytecode during the constructor execution",
+	"scripts": {
+		"test": "npx hardhat test"
+	},
+	"author": "Petr Hejda <mail@petrhejda.cz>",
+	"homepage": "https://github.com/petr-hejda/fake-number#readme",
+	"bugs": {
+		"url": "https://github.com/petr-hejda/fake-number/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/petr-hejda/fake-number.git"
+	},
+	"devDependencies": {
+		"hardhat": "^2.11.0",
+		"@nomicfoundation/hardhat-toolbox": "^1.0.2"
+	}
+}
